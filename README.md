@@ -1,6 +1,6 @@
 IMPORTANT: Pyctr is prototype software, and under active development. Expect rough
 edges and bugs, but if you try it, we appreciate early feedback! We'd also love
-contributions ([please see our contributing guidelines](CONTRIBUTING.md).
+contributions ([please see our contributing guidelines](CONTRIBUTING.md)).
 
 # What is Pyctr?
 
