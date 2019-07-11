@@ -18,7 +18,6 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
-from autograph.examples.sysml2019 import benchmark_base
 import numpy as np
 from pyctr.api import conversion
 from pyctr.examples.models import dynamic_rnn_minimal
@@ -26,6 +25,7 @@ from pyctr.examples.numpy import numpy_to_tf
 from pyctr.examples.numpy import numpy_to_torch
 from pyctr.examples.pytorch import pytorch_to_numpy
 from pyctr.examples.pytorch import pytorch_to_tf
+from pyctr.examples.sysml2019 import benchmark_base
 from pyctr.examples.tf import tf as tf_
 from pyctr.examples.tf import tf_to_numpy
 from pyctr.examples.tf import tf_to_pytorch

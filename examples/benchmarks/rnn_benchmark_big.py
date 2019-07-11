@@ -18,10 +18,10 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
-from autograph.examples.sysml2019 import benchmark_base
 import numpy as np
 from pyctr.api import conversion
 from pyctr.examples.pytorch import pytorch
+from pyctr.examples.sysml2019 import benchmark_base
 from pyctr.transformers.virtualization import control_flow
 from pyctr.transformers.virtualization import functions
 from pyctr.transformers.virtualization import variables

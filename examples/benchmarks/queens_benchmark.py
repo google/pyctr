@@ -18,9 +18,9 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
-from autograph.examples.sysml2019 import benchmark_base
 from pyctr.api import conversion
 from pyctr.examples.models import eight_queens
+from pyctr.examples.sysml2019 import benchmark_base
 from pyctr.examples.z3py import z3py
 from pyctr.transformers.virtualization import control_flow
 from pyctr.transformers.virtualization import functions
